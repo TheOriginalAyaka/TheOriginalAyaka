@@ -11,8 +11,6 @@
 <p align="center">
 <a href="https://twitter.com/originalayaka" target="blank"><img align="center" src="https://shields.io/badge/twitter-@OriginalAyaka-8a52dd?logo=twitter&style=for-the-badge&labelColor=200f30&logoColor=8a52dd" alt="originalayaka" />
 </a>
-<a href="https://discord.gg/7FKcdhXzja" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/json?label=discord&color=8a52dd&style=for-the-badge&logo=discord&labelColor=200f30&logoColor=8a52dd&&suffix=%20online&query=presence_count&url=https%3A%2F%2Fcanary.discord.com%2Fapi%2Fguilds%2F780382973152985119%2Fwidget.json" alt="originalayaka" />
-</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
