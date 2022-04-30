@@ -2,7 +2,7 @@
 - Username: @TheOriginalAyaka
 - Age: Not your business
 - Hobbies: Gaming - Coding
-- Email: hello@original-ayaka.tech
+- Email: hi@ayaka.one
 
 <!---
 TheOriginalAyaka/TheOriginalAyaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
