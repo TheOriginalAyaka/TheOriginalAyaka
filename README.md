@@ -10,4 +10,4 @@ My top used Languages:
 
 Some stats:
 
-[![Anurag's GitHub stats](https://git-stats.ayaka.one/api?username=theoriginalayaka&theme=synthwave&count_private=true&show_icons=true)](https://github.com/theoriginalayaka)
+[![Ayaka's GitHub stats](https://git-stats.ayaka.one/api?username=theoriginalayaka&theme=synthwave&count_private=true&show_icons=true)](https://github.com/theoriginalayaka)
