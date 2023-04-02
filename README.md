@@ -2,31 +2,33 @@
 
 <h3 align="center">A hobby full-stack developer</h3>
 
-
 - 🌱 I’m currently learning **New web technologies and games development**
-
-
-- 💬 Ask me about **react and node**
-
 
 - 📫 How to reach me **ayaka@ayaka.one**
 
+<h3 align="center">Connect with me:</h3>
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://twitter.com/originalayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="originalayaka" height="30" width="40" /></a>
-
+<p align="center">
+<a href="https://twitter.com/originalayaka" target="blank"><img align="center" src="https://shields.io/badge/twitter-@OriginalAyaka-8a52dd?logo=twitter&style=for-the-badge&labelColor=200f30&logoColor=8a52dd" alt="originalayaka" />
+</a>
+<a href="https://discord.gg/7FKcdhXzja" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/json?label=discord&color=8a52dd&style=for-the-badge&logo=discord&labelColor=200f30&logoColor=8a52dd&&suffix=%20online&query=presence_count&url=https%3A%2F%2Fcanary.discord.com%2Fapi%2Fguilds%2F780382973152985119%2Fwidget.json" alt="originalayaka" />
+</a>
 </p>
 
+<h3 align="center">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,electron,tailwind,nodejs,express,mongo,postgres,prisma,redis,git,cloudflare&perline=7" />
+</p>
 
-<p align="left"> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://git-stats.ayaka.one/api?username=theoriginalayaka&show_icons=true&locale=en&bg_color=45,200f30,8a52dd&text_color=ffffff&icon_color=E24BEB&title_color=ffffff&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=theoriginalayaka&theme=dark&hide_border=true&background=45%2C200F30%2C8A52DD&ring=B698E3&currStreakLabel=E24BEB&fire=E24BEB">
+</p>
+<p align="center">
+  <img src="https://git-stats.ayaka.one/api/top-langs?username=theoriginalayaka&show_icons=true&locale=en&layout=compact&bg_color=45,200f30,8a52dd&text_color=ffffff&icon_color=E24BEB&ring_color=B698E3&title_color=ffffff&hide_border=true">
+</p>
 
+<!-- useless tracking stuff -->
 
-<p><img align="left" src="https://git-stats.ayaka.one/api/top-langs?username=theoriginalayaka&show_icons=true&locale=en&layout=compact" alt="theoriginalayaka" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://git-stats.ayaka.one/api?username=theoriginalayaka&show_icons=true&locale=en" alt="theoriginalayaka" /></p>
+![](https://hit.yhype.me/github/profile?user_id=92409239)
