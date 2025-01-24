@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **New web technologies and games development**
 
-- 📫 How to reach me **ayaka@ayaka.one**
+- 📫 How to reach me **me@theoriginalayaka.com**
 
 <h3 align="center">Connect with me:</h3>
 
