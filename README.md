@@ -24,7 +24,7 @@
   <img src="https://streak-stats.demolab.com?user=theoriginalayaka&theme=dark&hide_border=true&background=45%2C200F30%2C8A52DD&ring=B698E3&currStreakLabel=E24BEB&fire=E24BEB">
 </p>
 <p align="center">
-  <img src="https://git-stats.ayaka.one/api/top-langs?username=theoriginalayaka&show_icons=true&locale=en&layout=compact&bg_color=45,200f30,8a52dd&text_color=ffffff&icon_color=E24BEB&ring_color=B698E3&title_color=ffffff&hide_border=true">
+  <img src="https://git-stats.ayaka.one/api/top-langs?username=theoriginalayaka&show_icons=true&locale=en&layout=compact&bg_color=45,200f30,8a52dd&text_color=ffffff&icon_color=E24BEB&ring_color=B698E3&title_color=ffffff&hide_border=true&hide=html,css,js">
 </p>
 
 <!-- useless tracking stuff -->
